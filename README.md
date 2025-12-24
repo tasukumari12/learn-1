@@ -1,4 +1,4 @@
 # learn-1
 this is my first github repository
 <br>
-Author - Tasu Kumari
+Author - Tasu (tasu college)
